@@ -1,4 +1,4 @@
-# WeatherApp is a android application for weather forcast and showing the actual weather depending on the location of the user.
+# WeatherApp: A mobile application for weather forcast, that shows the actual weather of a place depending on the location of the user.
 
 # Getting Started
 
