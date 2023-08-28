@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# WeatherApp is a android application for weather forcast and showing the actual weather depending on the location of the user.
 
 # Getting Started
 
