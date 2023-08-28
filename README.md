@@ -1,4 +1,4 @@
-# WeatherApp: A mobile application for weather forcast, that shows the actual weather of a place depending on the location of the user.
+# WeatherApp: A mobile application for weather forecast, that shows the actual weather of a place depending on the location of the user.
 
 # Getting Started
 
